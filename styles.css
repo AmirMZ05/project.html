@@ -2,6 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url("P2.jpg");
+    background-size: cover;
 }
 
 header {
@@ -26,17 +28,20 @@ nav ul li a {
     text-decoration: none;
 }
 
-section {
-    padding: 2em;
-    border-bottom: 1px solid #ccc;
+.section-heading {
+    color: green;
+    text-align: right;
 }
 
-footer {
-    text-align: center;
-    padding: 1em;
-    background-color: #f1f1f1;
+.text-white {
+    color: white;
+}
+
+.text-red {
+    color: red;
 }
 
 .project {
     margin-bottom: 1em;
+    text-align: right;
 }
