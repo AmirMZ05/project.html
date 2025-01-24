@@ -55,3 +55,11 @@ nav ul li a {
 .text-white {
     text-align: center;
 }
+
+body {
+    font-family: 'Droid Naskh', sans-serif;
+}
+
+header, section {
+    font-family: 'Droid Naskh', sans-serif;
+}
